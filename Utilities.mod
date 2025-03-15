@@ -1,6 +1,6 @@
 MODULE Utilities
     !*******************************************************************************************************************************************************************************
-    !NAME          : Donovan Kennedy     
+    !NAME          : Snakes and Ladders Game    
     !Date          : January 18, 2023
     !Robot         : Robot 7 - IRB1200 Servo Gripper
     !Description   : This module is used to store common procedures for use with various modules
